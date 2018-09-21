@@ -1,6 +1,6 @@
 echo "pingpong"
 
-git add *
+git add .
 
 echo Write your commit: 
 
