@@ -1,0 +1,12 @@
+fixedName: ecomm
+#180921
+Tech Used..
+html, css, javascript, bootstrap, jQuery..
+php, yii, mysql..
+Elastic Search, Redis..
+
+GitHub:
+https://github.com/Candy128x/MyProjStar
+>remtprosta: remtecm https://github.com/Candy128x/ecomm.git
+^brnprosta brnecm
+925:brnprostao brnecmo
